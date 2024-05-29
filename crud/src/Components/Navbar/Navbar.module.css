@@ -1,0 +1,16 @@
+.nav
+{
+    overflow: hidden;
+    background-color: rgb(220, 100, 20);
+    padding: 18px;
+    width: 100%;
+}
+.nav .link
+{
+    text-align: center;
+    float: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 16px;
+}

@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding: 0%;
+}
+.head
+{
+    text-align: center;
+    background-color: aqua;
+    padding: 50px;
+}
+.head h1
+{
+    color: chocolate;
+    font-size: 45px;
+}
+.head h3
+{
+    color: rgb(30, 210, 75);
+    font-size: 40px;
+    text-align: center;
+}

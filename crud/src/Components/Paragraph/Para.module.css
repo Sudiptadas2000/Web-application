@@ -1,0 +1,18 @@
+.para
+{
+    border: 1px solid rgb(128, 128, 128);
+    padding: 10px;
+}
+.heading
+{
+    text-align: center;
+    color: rgb(54, 47, 255);
+    text-transform: uppercase;
+}
+p
+{
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 3px;
+    font-family: 'Courier New', Courier, monospace;
+}
